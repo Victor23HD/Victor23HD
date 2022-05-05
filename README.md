@@ -14,8 +14,8 @@
   
   
   ## Trabalhos recentes💻
-  ### Atualmente estou focando bastante em me aprofundar em C# e SQL, por isso não tenho trabalhos concluídos.
+  ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez)
   
   <br> <br> 
   Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações. O presente pertence a eles, mas o futuro pelo qual eu sempre trabalhei pertence a mim. <br> 
-  #### Nikola Testa - My reference of life
+  #### By: Nikola Testa
