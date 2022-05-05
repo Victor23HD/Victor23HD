@@ -16,6 +16,7 @@
   ## Trabalhos recentes💻
   ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez)
   
-  <br> <br> 
-  Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações. O presente pertence a eles, mas o futuro pelo qual eu sempre trabalhei pertence a mim. <br> 
-  #### By: Nikola Testa
+  <br> 
+  Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações. O presente pertence a eles, mas o futuro pelo qual eu sempre trabalhei   pertence a mim. <br> 
+  
+  ###  By: Nikola Testa
