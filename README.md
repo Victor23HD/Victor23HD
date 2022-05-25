@@ -17,6 +17,6 @@
   ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez)
   
   <br> 
-  Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações. O presente pertence a eles, mas o futuro pelo qual eu sempre trabalhei   pertence a mim. <br> 
+  A persistência realiza o impossível. <br> 
   
-  ###  By: Nikola Testa
+  ###  By: ...
