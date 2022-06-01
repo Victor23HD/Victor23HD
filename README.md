@@ -19,7 +19,8 @@
   
   
   ## Trabalhos recentes💻
-  ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez)
+  ### https://github.com/Victor23HD/SaintLuiger_web - (ASP .NET 6 MCV / em andamento)
+  ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
   
   <br> 
   A persistência realiza o impossível. <br> 
