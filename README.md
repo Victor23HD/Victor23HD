@@ -28,6 +28,6 @@
   ### https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
   
   <br> 
-  A persistência realiza o impossível. <br> 
+  think different! <br> 
   
   ###  By: ...
