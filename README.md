@@ -18,14 +18,14 @@
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]()<p>
   
   
-  ## Trabalhos recentes💻
+  # Trabalhos recentes💻
   
-  # Web Applcation
+  ## Web Application
   ### https://github.com/Victor23HD/SaintLuiger_web - (ASP .NET 6 MCV / em andamento)
   
-  # Console Application
+  ## Console Application
   ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
-  ## https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
+  ### https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
   
   <br> 
   A persistência realiza o impossível. <br> 
