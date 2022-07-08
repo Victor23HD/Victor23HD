@@ -19,8 +19,13 @@
   
   
   ## Trabalhos recentes💻
+  
+  # Web Applcation
   ### https://github.com/Victor23HD/SaintLuiger_web - (ASP .NET 6 MCV / em andamento)
+  
+  # Console Application
   ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
+  ## https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
   
   <br> 
   A persistência realiza o impossível. <br> 
