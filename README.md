@@ -28,6 +28,4 @@
   ### https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
   
   <br> 
-  think different! <br> 
-  
-  ###  By: Steve Paul Jobs - Apple 🍎 ...
+ 
