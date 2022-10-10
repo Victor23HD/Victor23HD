@@ -1,5 +1,7 @@
-## Olá, eu sou o Victor Oliveira 🙋🏻
-###  Tenho 18 anos e estou em busca da minha primeira oportunidade, espero que goste do meu trabalho 😉
+<h3 align="center">
+  Seja bem-vindo ao meu perfil!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor23hd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xitornet.23@gmail.com)
 
