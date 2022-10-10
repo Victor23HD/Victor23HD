@@ -9,9 +9,8 @@
 
 ## 📘 Meus principais projetos de código aberto
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iTech&repo=github.com/Victor23HD/iTech)](https://github.com/Victor23HD/iTech)
- 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTech)](https://github.com/Victor23HD/iTech)
+
   ## Web Application
   ### https://github.com/Victor23HD/iTech - (ASP .NET 5 MVC / em andamento)
   
