@@ -9,7 +9,7 @@
 
 ## 📘 Meus principais projetos de código aberto
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=iTech)](https://github.com/Victor23HD/iTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iTech=https://github.com/Victor23HD/iTech)](https://github.com/Victor23HD/iTech)
  
  
   ## Web Application
