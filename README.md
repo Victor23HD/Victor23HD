@@ -9,13 +9,13 @@
 
 ## 📘 Meus principais projetos de código aberto
  
-<a href="https://github.com/Victor23HD/iTech/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  ## Web Application
+  ### https://github.com/Victor23HD/iTech - (ASP .NET 5 MVC / em andamento)
+  ### https://github.com/Victor23HD/SaintLuiger_web - (ASP .NET 6 MVC / em andamento)
+  
+  ## Console Application
+  ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
+  ### https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
 </p>
  
  
@@ -45,13 +45,7 @@
   
   # Trabalhos recentes💻
   
-  ## Web Application
-  ### https://github.com/Victor23HD/iTech - (ASP .NET 5 MVC / em andamento)
-  ### https://github.com/Victor23HD/SaintLuiger_web - (ASP .NET 6 MVC / em andamento)
-  
-  ## Console Application
-  ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
-  ### https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
+
   
   <br> 
  
