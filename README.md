@@ -9,13 +9,17 @@
 
 ## 📘 Meus principais projetos de código aberto
  
+ <a href="https://github.com/Victor23HD/iTech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iTech" />
+</a>
+ 
+ 
   ## Web Application
   ### https://github.com/Victor23HD/iTech - (ASP .NET 5 MVC / em andamento)
-  ### https://github.com/Victor23HD/SaintLuiger_web - (ASP .NET 6 MVC / em andamento)
   
   ## Console Application
   ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
-  ### https://github.com/Victor23HD/Console.Bank - (Sistema bancário básico / Concluído)
+  
 </p>
  
  
