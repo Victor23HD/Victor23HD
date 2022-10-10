@@ -9,7 +9,7 @@
 
 ## 📘 Meus principais projetos de código aberto
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTech)](https://github.com/Victor23HD/iTech)
+[![iTech](https://github-readme-stats.vercel.app/api/top-langs/?username=iTech)](https://github.com/Victor23HD/iTech)
 
   ## Web Application
   ### https://github.com/Victor23HD/iTech - (ASP .NET 5 MVC / em andamento)
