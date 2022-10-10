@@ -7,17 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Back-End+web+%7C+Developer;Azure+%26+Aws+%7C+Certificate;C%23+%26+SQL+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 <!---->
 
-## 📘 Meus principais projetos de código aberto
- 
-[![iTech](https://github-readme-stats.vercel.app/api/top-langs/?username=iTech)](https://github.com/Victor23HD/iTech)
 
-  ## Web Application
-  ### https://github.com/Victor23HD/iTech - (ASP .NET 5 MVC / em andamento)
-  
-  ## Console Application
-  ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
-  
-</p>
  
  
  
@@ -44,9 +34,14 @@
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]()<p>
   
   
-  # Trabalhos recentes💻
-  
+ ## 📘 Meus principais projetos de código aberto
 
+  ## Web Application
+  ### https://github.com/Victor23HD/iTech - (ASP .NET 5 MVC / em andamento)
   
-  <br> 
+  ## Console Application
+  ### https://github.com/Victor23HD/XadrezSLN - (Jogo de xadrez / Concluído)
+  
+</p>
+<br> 
  
