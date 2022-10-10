@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
  
-<p align="center">
+<p align="center" left="10px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Back-End+web+%7C+Developer;Azure+%26+Aws+%7C+Certificate;C%23+%26+SQL+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 </center>
