@@ -1,5 +1,6 @@
 
- ## ✅ Seja bem-vindo ao meu perfil! 
+<a href="https://github.com/Victor23HD"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=Victor%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
+	
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Back-End+web+%7C+Developer;Azure+%26+Aws+%7C+Certificate;C%23+%26+SQL+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
  ```c#
  class WhoAmI 
@@ -14,13 +15,6 @@
       };
 }
  ```
-
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor23HD&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor23HD&show_icons=true&theme=onedark)
--->
-
   
 
 ## Meus projetos 📘
@@ -57,7 +51,7 @@
 
 <p>
   
-## 👨🏻‍💻 Linguagem de programação e marcação
+### 👨🏻‍💻 Linguagem de programação e marcação
 	
    [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
    [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
@@ -68,7 +62,7 @@
 
 </p>
 	
-## 🗄️ Bancos de dados e hospedagem na nuvem
+### 🗄️ Bancos de dados e hospedagem na nuvem
 
 <p>
   
@@ -83,7 +77,7 @@
 
 </p>
 	
-## ♋☁ Redes
+### ♋☁ Redes
 
 <p>
   
