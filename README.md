@@ -35,9 +35,9 @@
 <br> 
  
 
-## 🛠️ Minhas ferramentas favoritas
 
-### 👨‍💻 Linguagens de programação e marcação
+
+## 👨‍💻 Linguagens de programação e marcação
 
 <p>
   
@@ -50,7 +50,7 @@
 
 </p>
 
-### 🗄️ Bancos de dados e hospedagem na nuvem
+## 🗄️ Bancos de dados e hospedagem na nuvem
 
 <p>
   
@@ -65,7 +65,7 @@
 
 </p>
 
-### ♋☁ Redes
+## ♋☁ Redes
 
 <p>
   
@@ -74,5 +74,8 @@
   
 </p>
 
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Victor23HD/count.svg" />
+</p>
 
