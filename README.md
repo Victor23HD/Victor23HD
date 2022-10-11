@@ -21,26 +21,44 @@
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor23HD&show_icons=true&theme=onedark)
 -->
 
- ## 📘 Melhores Repositórios
-
-  ## Web Application - ASP .NET 5 MVC
-  ### (Blog de tecnologia / em andamento)
-  https://github.com/Victor23HD/iTech 
   
-  ## Console Application - C#
-  ### (Jogo de xadrez / Concluído) 
-  https://github.com/Victor23HD/XadrezSLN  
-  
-</p>
-<br> 
- 
 
+## Meus projetos 📘
+<table>
+  <thead>
+    <tr>
+      <th>Nome do projeto</th>
+      <th>Skills usadas</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/Victor23HD/XadrezSLN'>XadrexSLN</a></td>
+      <td>Console Application - C# </td>
+      <td>Meu primeiro projeto em C# aplicando todos os meus conhecimentos sobre polimorfismo, herança, encapsulamento dentre outros princípios</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/Victor23HD/iTech'>iTech</a></td>
+      <td>ASP .NET 5 MVC - C# & SQL </td>
+      <td>Blog feito para a comunidade de tecnologia com base no DEV .TO - em andamento</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Victor23HD/To-Do">To-Do</a></td>
+      <td>ASP .NET 5 MVC - C#, SQL, JavaScript </td>
+      <td>aplicativo de gerenciamento de tarefas baseado em nuvem</td>
+    </tr>
+  </tbody>
+</table>
+</details>
 
-
-## 👨‍💻 Linguagens de programação e marcação
+<details>
+<summary><b> SKILLS :point_right: </b></summary>
 
 <p>
   
+## 👨🏻‍💻 Linguagem de programação e marcação
+	
    [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
    [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
    [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -49,7 +67,7 @@
    [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
 </p>
-
+	
 ## 🗄️ Bancos de dados e hospedagem na nuvem
 
 <p>
@@ -64,7 +82,7 @@
   [![GOOGLE CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
 </p>
-
+	
 ## ♋☁ Redes
 
 <p>
@@ -73,6 +91,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xitornet.23@gmail.com)
   
 </p>
+	
+</details>
 
 <p align="center"> 
   Visitors count<br>
