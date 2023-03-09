@@ -28,7 +28,7 @@ const WhoAmI
     <tr>
       <td> <a href='https://github.com/Victor23HD/ProcessFiles'> Process Files </a></td>
       <td> NodeJs </td>
-      <td> Aplicação feita para extrair links de um Markdown usando regex e validar se o link ainda existe ou não</td>	    
+      <td> Aplicação feita para extrair links de um Markdown usando regex e validar links </td>	    
     </tr>
   </tbody>
 </table>
