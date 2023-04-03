@@ -2,15 +2,25 @@
 <a href="https://github.com/Victor23HD"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=Victor%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=NodeJs+%7C+Developer;Azure+%26+Aws+%7C+Certificate;JavaScript+Anywhere+%E2%9D%A4" alt="Typing SVG" /></a>
- ```c#
-const WhoAmI
+ ```JSON
 {
     
-	 Name = "Oliveira, Victor",
-	 Age = 19,
-	 Email = "xitornet.23@gmail.com",
-	 Working_With = "writing code",
-	 Cep = "SP"
+	 "Name": "Victor Oliveira",
+	 "Age": 19,
+	 "Email": "xitornet.23@gmail.com",
+	 "State": "SP",
+	 "Technologies": {
+		"JavaScript": ["Node","React","API Rest"],
+		"Database": ["MongoDB","SQL"],
+		"Cloud": ["Azure","AWS"]
+	 },
+	 "Job": {
+		"Company": "Institute Conecthus",
+		"Job Title": "Development Assistant",
+		"Time In The Company": "4 Months",
+		"Hard Skills(Job)": ["C","C++","C#"],
+		"Abouth": "helping several companies and partner developers with many different types of problems."
+	 }	 
 }
  ```
   
@@ -29,6 +39,11 @@ const WhoAmI
       <td> <a href='https://github.com/Victor23HD/ProcessFiles'> Process Files </a></td>
       <td> NodeJs </td>
       <td> Aplicação feita para extrair links de um Markdown usando regex e validar links </td>	    
+    </tr>
+     <tr>
+      <td> <a href='https://github.com/Victor23HD/OliveiraBookstore'> Oliveira Bookstore </a></td>
+      <td> NodeJS, MongoDB, API Rest </td>
+      <td> Esse projeto de estudo tem como objetivo a demonstração dos meus conhecimentos de Express e MongoDB Atlas </td>	    
     </tr>
   </tbody>
 </table>
