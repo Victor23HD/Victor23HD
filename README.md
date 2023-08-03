@@ -15,9 +15,9 @@
 		"Cloud": ["Azure","AWS"]
 	 },
 	 "Job": {
-		"Company": "Institute Conecthus",
-		"Job Title": "Development Assistant",
-		"Time In The Company": "4 Months",
+		"Company": "Institute Conecthus > Tectoy",
+		"Job Title": "Development Assistant JR",
+		"Time In The Company": "9 Months",
 		"Hard Skills(Job)": ["C","C++","C#"],
 		"Abouth": "helping several companies and partner developers with many different types of problems."
 	 }	 
