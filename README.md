@@ -23,15 +23,33 @@
 	 }	 
 }
  ```
-  
+## Templates 🧐
+<table>
+  <thead>
+    <tr>
+      <th>Nome do template</th>
+      <th>Skills usadas</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> <a href='https://github.com/Victor23HD/React-TailwindCSS-Electron/tree/main'> Electron-Tailwind-React </a></td>
+      <td> ElectronJS, TailwindCSS, ReactJS </td>
+      <td> Template feito para tem uma base pronta de uma aplicação em Electron com React + Tailwind </td>	    
+    </tr>
+  </tbody>
+</table>
 
-## Meus projetos 📘
+
+## Projetos 📖
 <table>
   <thead>
     <tr>
       <th>Nome do projeto</th>
       <th>Skills usadas</th>
       <th>Descrição</th>
+      <th>Versão</th>
     </tr>
   </thead>
   <tbody>
@@ -39,14 +57,36 @@
       <td> <a href='https://github.com/Victor23HD/ProcessFiles'> Process Files </a></td>
       <td> NodeJs </td>
       <td> Aplicação feita para extrair links de um Markdown usando regex e validar links </td>	    
+      <td> 1.0.0 </td>	       
     </tr>
      <tr>
       <td> <a href='https://github.com/Victor23HD/OliveiraBookstore'> Oliveira Bookstore </a></td>
       <td> NodeJS, MongoDB, API Rest </td>
-      <td> Esse projeto de estudo tem como objetivo a demonstração dos meus conhecimentos de Express e MongoDB Atlas </td>	    
+      <td> Esse projeto de estudo tem como objetivo a demonstração dos meus conhecimentos de Express e MongoDB Atlas </td>	 
+      <td> 2.0.0 </td>	
+    </tr>
+	<tr>
+      <td> <a href='https://github.com/Victor23HD/FrutaControl-Client'> FrutaControl-Client </a></td>
+      <td> TailwindCSS, ReactJS </td>
+      <td> Repositório do cliente (front-end) para o sistema FrutaControl, responsável pela interface interativa e visual da frutaria. </td>	 
+      <td> Construção </td>	
+    </tr>
+	<tr>
+      <td> <a href='https://github.com/Victor23HD/FrutaControl-Server'> FrutaControl-Server </a></td>
+      <td> API REST, MongoDB </td>
+      <td> Repositório do servidor (back-end) para o sistema FrutaControl, encarregado de processar solicitações, lógica de negócios e armazenamento de dados, fornecendo APIs para comunicação com o cliente. </td>	 
+      <td> Construção </td>	
+    </tr>
+	   </tr>
+	<tr>
+      <td> <a href='https://github.com/Victor23HD/FrutaControl-Desktop'> FrutaControl-Desktop </a></td>
+      <td> ElectronJS, TailwindCSS, ReactJS </td>
+      <td> A aplicação desktop ElectronJS é o cliente front-end do sistema FrutaControl, desenvolvido para a frutaria. Essa aplicação é responsável por fornecer uma interface interativa e visual, permitindo que os usuários acessem facilmente as funcionalidades do sistema. Com o ElectronJS, a aplicação pode ser executada em diferentes plataformas, como Windows, macOS e Linux, proporcionando uma experiência consistente em todas elas.. </td>	 
+      <td> Construção </td>	
     </tr>
   </tbody>
 </table>
+
 </details>
 
 <details>
