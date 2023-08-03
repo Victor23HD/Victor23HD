@@ -30,13 +30,15 @@
       <th>Nome do template</th>
       <th>Skills usadas</th>
       <th>Descrição</th>
+	<th>Versão</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td> <a href='https://github.com/Victor23HD/React-TailwindCSS-Electron/tree/main'> Electron-Tailwind-React </a></td>
       <td> ElectronJS, TailwindCSS, ReactJS </td>
-      <td> Template feito para tem uma base pronta de uma aplicação em Electron com React + Tailwind </td>	    
+      <td> Template feito para tem uma base pronta de uma aplicação em Electron com React + Tailwind </td>	
+	<td> 1.0.0 </td>	
     </tr>
   </tbody>
 </table>
