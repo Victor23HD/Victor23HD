@@ -10,7 +10,7 @@
 	 "Email": "xitornet.23@gmail.com",
 	 "State": "SP",
 	 "Technologies": {
-		"JavaScript": ["Node","React","API Rest"],
+		"JavaScript": ["NodeJS","ReactJS","API Rest","ElectronJS"],
 		"Database": ["MongoDB","SQL"],
 		"Cloud": ["Azure","AWS"]
 	 },
