@@ -80,12 +80,6 @@
       <td> Construção </td>	
     </tr>
 	   </tr>
-	<tr>
-      <td> <a href='https://github.com/Victor23HD/FrutaControl-Desktop'> FrutaControl-Desktop </a></td>
-      <td> ElectronJS, TailwindCSS, ReactJS </td>
-      <td> A aplicação desktop ElectronJS é o cliente front-end do sistema FrutaControl, desenvolvido para a frutaria. Essa aplicação é responsável por fornecer uma interface interativa e visual, permitindo que os usuários acessem facilmente as funcionalidades do sistema. Com o ElectronJS, a aplicação pode ser executada em diferentes plataformas, como Windows, macOS e Linux, proporcionando uma experiência consistente em todas elas.. </td>	 
-      <td> Construção </td>	
-    </tr>
   </tbody>
 </table>
 
