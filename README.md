@@ -73,12 +73,7 @@
       <td> Repositório do cliente (front-end) para o sistema FrutaControl, responsável pela interface interativa e visual da frutaria. </td>	 
       <td> Construção </td>	
     </tr>
-	<tr>
-      <td> <a href='https://github.com/Victor23HD/FrutaControl-Server'> FrutaControl-Server </a></td>
-      <td> API REST, MongoDB </td>
-      <td> Repositório do servidor (back-end) para o sistema FrutaControl, encarregado de processar solicitações, lógica de negócios e armazenamento de dados, fornecendo APIs para comunicação com o cliente. </td>	 
-      <td> Construção </td>	
-    </tr>
+	
 	   </tr>
   </tbody>
 </table>
