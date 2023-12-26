@@ -67,14 +67,14 @@
       <td> Esse projeto de estudo tem como objetivo a demonstração dos meus conhecimentos de Express e MongoDB Atlas </td>	 
       <td> 2.0.0 </td>	
     </tr>
-	<tr>
+   <tr>
       <td> <a href='https://github.com/Victor23HD/FrutaControl'> FrutaControl </a></td>
       <td> TailwindCSS, ReactJS, AWS Cognito, API Gateway, Lambda, DynamoDB </td>
       <td> Repositório do client (front-end) para o sistema FrutaControl, responsável pela interface interativa e visual da frutaria. </td>	 
       <td> Construção </td>	
     </tr>
 	
-	   </tr>
+	
   </tbody>
 </table>
 
