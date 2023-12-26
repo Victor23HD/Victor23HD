@@ -68,9 +68,9 @@
       <td> 2.0.0 </td>	
     </tr>
 	<tr>
-      <td> <a href='https://github.com/Victor23HD/FrutaControl-Client'> FrutaControl-Client </a></td>
-      <td> TailwindCSS, ReactJS </td>
-      <td> Repositório do cliente (front-end) para o sistema FrutaControl, responsável pela interface interativa e visual da frutaria. </td>	 
+      <td> <a href='https://github.com/Victor23HD/FrutaControl'> FrutaControl </a></td>
+      <td> TailwindCSS, ReactJS, AWS Cognito, API Gateway, Lambda, DynamoDB </td>
+      <td> Repositório do client (front-end) para o sistema FrutaControl, responsável pela interface interativa e visual da frutaria. </td>	 
       <td> Construção </td>	
     </tr>
 	
