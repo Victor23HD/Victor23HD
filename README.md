@@ -2,25 +2,81 @@
 <a href="https://github.com/Victor23HD"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=Victor%20Oliveira%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=NodeJs+%7C+Developer;Azure+%26+Aws+%7C+Certificate;JavaScript+Anywhere+%E2%9D%A4" alt="Typing SVG" /></a>
-```JAVASCRIPT
-{
-    "Name": "Victor Oliveira",
-    "Age": 19,
-    "Email": "xitornet.23@gmail.com",
-    "State": "SP",
-    "Technologies": {
-        "JavaScript": ["NodeJS", "ReactJS", "API Rest", "ElectronJS"],
-        "Database": ["MongoDB", "SQL"],
-        "Cloud": ["Azure", "AWS"]
-    },
-    "Job": {
-        "Company": "Institute Conecthus > Tectoy",
-        "Job Title": "Development Assistant JR",
-        "Time In The Company": "9 Months",
-        "Hard Skills(Job)": ["C", "C++", "C#"],
-        "Abouth": "helping several companies and partner developers with many different types of problems."
-    }
-}
+
+<details>
+<summary><b> 👨🏻‍💻 Linguagens de Programação  </b></summary>
+<p>
+  
+####  Java
+####  C++
+####  C#(.NET)
+####  Python
+####  NodeJS
+####  NodeJS  Kotlin
+
+</p>
+
+</details>
+
+</p>
+
+<details>
+<summary><b> 🗄️ Bancos de Dados  </b></summary>
+
+<p>
+  
+####  SQL Server
+####  PostgreSQL
+####  MongoDB
+####  Cassandra
+####  Redis
+####  Memcached
+
+</p>
+
+</details>
+
+<details>
+<summary><b> ☁ Serviços de Mensageria e Integração </b></summary>
+
+<p>
+  
+####  Docker
+####  Kubernetes
+
+</p>
+
+</details>
+
+<details>
+<summary><b> 📦 Contêineres e Orquestração </b></summary>
+
+<p>
+  
+####  Apache Kafka
+####  RabbitMQ
+####  ActiveMQ
+
+</p>
+
+</details>
+
+<details>
+<summary><b> 🛠️ Microserviços e APIs</b></summary>
+
+<p>
+  
+####  Spring Boot (Java)
+####  gRPC e REST APIs
+####  ASP.NET Core
+
+</p>
+
+</details>
+
+
+
+</p>
 
  ```
 ## Templates 🧐
