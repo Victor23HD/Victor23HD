@@ -15,6 +15,5 @@
 🖥️ Editor: vscode  •
 🖱️ OS: Win 11   •
 🧑‍💻 Age: 20  •
-🐲 WeChat: Victor23HD  •
 🎮 Valorant: Ascendente 2
 
