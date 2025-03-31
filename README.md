@@ -12,6 +12,8 @@
 
 ✔️ Cloud: 1x AWS Certified | 2 x Azure Certified
 
+🐋 O Santos ainda me mata 
+
 🖥️ Editor: vscode  •
 🖱️ OS: Win 11   •
 🧑‍💻 Age: 20  •
