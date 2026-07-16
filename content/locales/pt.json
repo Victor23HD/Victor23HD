@@ -1,0 +1,410 @@
+{
+  "ui": {
+    "nav": {
+      "home": "Início",
+      "about": "Sobre",
+      "life": "Vida",
+      "experience": "Experiência",
+      "projects": "Projetos",
+      "education": "Formação",
+      "volunteering": "Voluntariado",
+      "blog": "Blog",
+      "contact": "Contato"
+    },
+    "hero": {
+      "role": "Engenheiro de Software • C/C++",
+      "available": "Aberto a desafios",
+      "ctaProjects": "Ver projetos",
+      "ctaContact": "Falar comigo",
+      "ctaCv": "Baixar CV",
+      "tech": [
+        "C",
+        "C++",
+        "Python",
+        "Kotlin",
+        "Linux",
+        "RTOS",
+        "AWS",
+        "Azure",
+        "Git",
+        "EMV"
+      ]
+    },
+    "sections": {
+      "stats": "Em números",
+      "tech": "Stack que uso",
+      "experience": "Experiência",
+      "projects": "Projetos selecionados",
+      "skills": "Competências",
+      "volunteering": "Voluntariado",
+      "contact": "Contato",
+      "blog": "Blog",
+      "education": "Formação",
+      "certifications": "Certificações"
+    },
+    "common": {
+      "viewProject": "Ver projeto",
+      "viewCode": "Ver código",
+      "backToProjects": "Voltar aos projetos",
+      "backToBlog": "Voltar ao blog",
+      "comingSoon": "Em breve",
+      "readMore": "Ler mais",
+      "downloadCv": "Baixar CV",
+      "sendEmail": "Enviar e-mail",
+      "darkMode": "Modo escuro",
+      "lightMode": "Modo claro",
+      "allRights": "Todos os direitos reservados.",
+      "highlights": "Destaques",
+      "notFound": "Página não encontrada."
+    },
+    "contact": {
+      "intro": "Aberto a conversas sobre embarcados, pagamentos e engenharia core em escala nacional. Manda uma mensagem ou conecta nas redes.",
+      "emailLabel": "E-mail",
+      "phoneLabel": "Telefone",
+      "locationLabel": "Localização",
+      "socialLabel": "Redes"
+    },
+    "about": {
+      "title": "Sobre mim",
+      "intro": "Aos 22 anos, tentando fazer a diferença — na cidade, na formação e no código.",
+      "summary": [
+        "Aos 22 anos, a busca é a mesma: fazer a diferença. Na cidade, ajudando quem mais precisa a mudar de vida. No trabalho, entregando com resultado. E no caminho, ensinar e aprender no mesmo passo.",
+        "Em mais de 3 anos de C/C++, saí do suporte embarcado e fui crescendo até pagamentos, certificações e o core de plataformas que movem a economia."
+      ],
+      "lifeCta": "Vida fora do trabalho →",
+      "exploreLabel": "Conhecer mais",
+      "explore": {
+        "experience": {
+          "title": "Experiência",
+          "description": "Do POS e Kernel EMV ao core do Protheus."
+        },
+        "education": {
+          "title": "Formação",
+          "description": "Técnico, nuvem e gestão de TI em paralelo à carreira."
+        },
+        "life": {
+          "title": "Vida",
+          "description": "O que fica fora do código."
+        }
+      },
+      "paragraphs": [
+        "Nasci em 20/03/2004. Aos 22 anos, a pergunta que me move é simples: como fazer a diferença — na cidade, com quem mais precisa, e no trabalho, com entregas que geram resultado de verdade.",
+        "Voluntariado e formação nunca ficaram atrás da carreira: ensinar informática e inglês a quem precisa da oportunidade, técnico, nuvem e gestão de TI em paralelo ao dia a dia. Aprender e compartilhar conhecimento é parte do mesmo caminho.",
+        "Profissionalmente, mais de 3 anos em sistemas críticos em C/C++: embarcado, pagamentos, certificação e o core de plataformas em escala. Sempre com o mesmo rigor — estabilidade, resultado e impacto na ponta.",
+        "Fora do teclado, escolho com intenção o que importa. Trabalho ocupa boa parte do dia; o resto eu construo com a mesma bússola: gerar resultado, fazer mudança e deixar as coisas melhores do que encontrei."
+      ]
+    },
+    "life": {
+      "eyebrow": "Vida · Fora do trabalho",
+      "title": "Vida fora do trabalho.",
+      "intro": "",
+      "featuredLabel": "Destaque",
+      "libraryLabel": "Mais histórias",
+      "filterAll": "Tudo",
+      "featured": {
+        "tag": "Jogos",
+        "title": "Jogos",
+        "pitch": "RPGs longos, desafios difíceis e ranked com amigos — jogos que pedem paciência e concentração, do mesmo jeito que eu gosto de encarar o trabalho.",
+        "clearedLabel": "Os melhores jogos que já zerei"
+      },
+      "topics": [
+        {
+          "id": "anime",
+          "tag": "Anime",
+          "title": "Anime",
+          "pitch": "Histórias épicas, mundos bem construídos e personagens que ficam na cabeça — do shōnen clássico ao sci-fi mais recente."
+        },
+        {
+          "id": "music",
+          "tag": "Música",
+          "title": "Música",
+          "pitch": ""
+        }
+      ],
+      "closing": "Trabalho ocupa boa parte do dia — o resto eu escolho com calma: um jogo, uma xícara, uma trilha ou um episódio que valha a pena.",
+      "backToAbout": "← Perfil profissional"
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Notas técnicas sobre sistemas críticos, embarcados e engenharia de plataforma.",
+      "empty": "Novos artigos em breve. Enquanto isso, explore projetos e experiência."
+    },
+    "projects": {
+      "title": "Projetos",
+      "subtitle": "Projetos em construção — mais detalhes em breve.",
+      "unpublished": "Projeto em preparação para publicação."
+    },
+    "experience": {
+      "title": "Experiência",
+      "subtitle": "Mais de três anos construindo software onde estabilidade, conformidade e desempenho são requisitos.",
+      "storyIntro": "De sistemas embarcados de alta disponibilidade ao core de um ERP que sustenta a economia brasileira.",
+      "storyQuote": "Tecnologia não é sobre o que a máquina faz, mas sobre o quanto de impacto real conseguimos entregar na ponta.",
+      "counter": {
+        "year": "ano",
+        "years": "anos",
+        "month": "mês",
+        "months": "meses",
+        "and": "e",
+        "suffix": "Fazendo a diferença",
+        "almost": "quase"
+      }
+    },
+    "education": {
+      "storyIntro": "Da base técnica que me colocou no mercado — formação que caminha junto com a carreira, não atrás dela.",
+      "storyQuote": "Formação de verdade não fecha porta. Abre a próxima.",
+      "hoursLabel": "horas"
+    },
+    "volunteering": {
+      "title": "Voluntariado",
+      "subtitle": "Ensinar na escola, aprender com cada aluno — inclusão antes de virar skill de gestão."
+    },
+    "testimonials": {
+      "title": "Recomendações",
+      "viewLinkedIn": "Ver no LinkedIn"
+    },
+    "home": {
+      "education": {
+        "title": "Formação acadêmica",
+        "subtitle": "Da base técnica à gestão de TI — aprender, ensinar e liderar no mesmo caminho."
+      },
+      "volunteering": {
+        "title": "Voluntariado",
+        "subtitle": "Compartilhar conhecimento para ampliar oportunidades."
+      }
+    }
+  },
+  "narrative": {
+    "headline": "Engenheiro de Software C/C++ — embarcados, pagamentos e core de ERP em escala nacional",
+    "tagline": "Do embarcado de alta disponibilidade ao core do Protheus — pagamentos, certificação e impacto na economia brasileira.",
+    "summary": "Engenheiro de software com mais de 3 anos em sistemas críticos: Kernel EMV e telecom com PagSeguro, Stone e Mercado Pago; certificação de adquirência no Grupo Bradesco aprovada na primeira tentativa; e hoje no core do TOTVS Protheus / AppServer — ERP que sustenta cerca de 25% do PIB brasileiro. C/C++, Linux/RTOS, AdvPL/TLPP.",
+    "pillars": [
+      {
+        "title": "Embarcados & acquiring",
+        "description": "Kernel EMV, POS Linux/RTOS, labs de telecom e linha de frente com os maiores adquirentes do Brasil — referência em projetos nacionais e internacionais."
+      },
+      {
+        "title": "Certificação bancária",
+        "description": "No Grupo Bradesco, certificação para atuar como adquirência aprovada de primeira — feito inédito — com Corban, features e refatoração em escala."
+      },
+      {
+        "title": "Core TOTVS Protheus",
+        "description": "Engenharia no AppServer/runtime e parser AdvPL/TLPP em C++ — estabilidade e evolução de linguagem onde cada linha impacta milhares de empresas."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Anos de experiência",
+        "value": "3+"
+      },
+      {
+        "label": "Posições na carreira",
+        "value": "5"
+      },
+      {
+        "label": "Certificações cloud",
+        "value": "3"
+      },
+      {
+        "label": "Formação acadêmica",
+        "value": "Técnico + Tecnólogo"
+      }
+    ],
+    "experience": {
+      "totvs": {
+        "role": "Senior Software Engineer | C/C++",
+        "company": "TOTVS — São Paulo (remoto)",
+        "period": "03/2026 – atual",
+        "pitch": "O ERP que sustenta cerca de 25% do PIB brasileiro — onde cada linha de C/C++ impacta milhares de empresas.",
+        "bridge": "Após anos no embarcado, um novo desafio: o software por trás de 25% do PIB brasileiro.",
+        "bullets": [
+          "Engenharia core do TOTVS Protheus / AppServer — plataforma ERP crítica para milhares de clientes no Brasil.",
+          "Implementação de novas features de sintaxe e semântica diretamente no código-fonte em C++ do motor de execução (runtime) e parser do AdvPL e TLPP."
+        ]
+      },
+      "act": {
+        "role": "Embedded Software Engineer | C/C++",
+        "company": "ACT Digital",
+        "client": "Grupo Bradesco",
+        "period": "11/2024 – 03/2026",
+        "pitch": "Conhecimento do setor aplicado à certificação da aplicação para atuar como adquirência — aprovada na primeira tentativa, feito inédito na história da empresa.",
+        "bridge": "Depois de anos ajudando os maiores adquirentes do Brasil, veio a oportunidade de atuar no grupo Bradesco — num projeto que impacta todo o território nacional e traz uma das maiores inovações do setor bancário.",
+        "bullets": [
+          "Corban + Adquirência: manutenção, novas features e início de uma refatoração global da aplicação.",
+          "Integração dos softwares embarcados oficiais da empresa com os novos produtos."
+        ]
+      },
+      "transire-pos": {
+        "role": "Embedded Software Engineer | C/C++",
+        "company": "Transire Serviços — Cotia, SP",
+        "period": "10/2024 – 11/2024",
+        "pitch": "Integração de novos produtos com os softwares oficiais da Transire — e linha de frente nos projetos PagSeguro, Stone e Mercado Pago.",
+        "bridge": "Em EMV + telecomunicações, me tornei referência no time para projetos nacionais e internacionais.",
+        "bullets": [
+          "Responsável pela produção em massa de novos firmwares para diferentes fabricantes de terminais POS (Linux).",
+          "Atuação direta nas certificações de telecomunicação dos cadernos de teste Stone, Mercado Pago e PagSeguro.",
+          "Ideia e implementação de apps de transação fake para cenários de certificação em telecomunicação.",
+          "Principal ponte entre equipes da China e grandes clientes, como PagSeguro, Stone e Mercado Pago."
+        ]
+      },
+      "transire-entry": {
+        "role": "Embedded Software Engineer – Entry Level | C/C++",
+        "company": "Transire Serviços — Cotia, SP",
+        "period": "02/2023 – 10/2024",
+        "pitch": "Do Kernel EMV a projetos validados nos maiores laboratórios de telecomunicação do país — acompanhando de perto os engenheiros de referência da China.",
+        "bridge": "Resposta rápida e com qualidade no suporte, participação em projetos de grandes clientes com insights relevantes e evolução no inglês,\npreparando-me para novos desafios.",
+        "bullets": [
+          "Responsável pelo projeto eSIM — primeiros exemplos de código adotados por grandes empresas no Brasil.",
+          "Otimização do PagSeguro Q92X: melhor bateria, conectividade e impressora entre os devices do mercado.",
+          "Falhas de telecom na Stone Q92 — otimizei Qt no S920 para extrair o melhor do framework e do hardware.",
+          "Simulação de transações em C (Linux/RTOS), alinhada às normas ABECS, com interface em LVGL.",
+          "Injeção automatizada de chaves via SSL/TLS — menos risco e menos trabalho manual na certificação.",
+          "Em cerca de um ano na Transire, já se comunicava com eficiência em inglês em contextos técnicos."
+        ]
+      },
+      "transire-trainee": {
+        "role": "Embedded Software Engineer – Trainee | C/C++",
+        "company": "Transire Serviços — Cotia, SP",
+        "period": "12/2022 – 02/2023",
+        "pitch": "Trainee com resultado: suporte ao SDK proprietário, com resposta rápida que tirava o cliente da fila.",
+        "bullets": [
+          "Fechava issues simples no mesmo dia — menos tempo parado no suporte e no cliente.",
+          "Tirava dúvidas do SDK proprietário e analisava melhorias nas apps dos clientes — por exemplo, consumo de bateria.",
+          "Começou do zero em inglês — a base do que, ao longo da Transire, virou comunicação técnica eficiente."
+        ]
+      }
+    },
+    "projects": {
+      "fcl": {
+        "title": "FCL",
+        "description": "Projeto em construção. Em breve, mais detalhes sobre o escopo, stack e resultados.",
+        "highlights": [
+          "Conteúdo e documentação em preparação",
+          "Publicação planejada nesta seção",
+          "Mais informações em breve"
+        ]
+      },
+      "totvstec-hub": {
+        "title": "TOTVSTec Hub",
+        "description": "Hub de documentação em Docusaurus para a comunidade TOTVSTec — centraliza guias, referências e materiais técnicos.",
+        "highlights": [
+          "Documentação estática otimizada para GitHub Pages",
+          "Estrutura modular para crescimento da comunidade",
+          "Integração com ecossistema TOTVS"
+        ]
+      },
+      "trilha": {
+        "title": "Trilha",
+        "description": "Plataforma de estudos em Next.js desenvolvida no contexto da ETEC — trilhas de aprendizado, progresso e quizzes.",
+        "highlights": [
+          "App Router com experiência de estudo gamificada",
+          "Acompanhamento de progresso por tópico",
+          "Foco em fundamentos de informática"
+        ]
+      },
+      "jeniffer-concurso": {
+        "title": "Jeniffer Concurso",
+        "description": "Site estático publicado no GitHub Pages para apoio a preparação de concursos.",
+        "highlights": [
+          "Deploy automatizado",
+          "Layout leve e responsivo",
+          "Conteúdo focado em estudo"
+        ]
+      },
+      "ipb-vgp": {
+        "title": "IPB-VGP",
+        "description": "Projeto de pesquisa em desenvolvimento — publicação planejada.",
+        "highlights": [
+          "Em preparação"
+        ]
+      }
+    },
+    "education": {
+      "fam": {
+        "title": "Superior de Tecnologia em Gestão de Tecnologia da Informação",
+        "institution": "FAM — Centro Universitário (tecnólogo)",
+        "period": "concl. 2026",
+        "pitch": "Conhecimento para entender todas as pontas de um projeto e pessoas.",
+        "detail": "Graduação em paralelo com a carreira. Aprofunda a base técnica e ensina a ler o projeto inteiro — da equipe à decisão que chega em produção.",
+        "bridge": "Antes da nuvem e da gestão, veio a escola que mudou o rumo — e me formou primeiro da turma."
+      },
+      "highway": {
+        "title": "Educação Profissional Técnica de Nível Médio — Informática",
+        "institution": "The Highway — Cotia, SP",
+        "period": "2018 – 2020",
+        "pitch": "A base de tudo: web, hardware, sistemas e bancos. Um técnico que formou o engenheiro — e a pessoa.",
+        "detail": "Primeiro da turma. Quatro qualificações — Desenvolvimento de Sistemas, Operação de Computadores, E-Commerce e Redes — e o reconhecimento da escola pelo trabalho com quem mais precisava."
+      }
+    },
+    "volunteering": {
+      "highway-teaching": {
+        "organization": "The Highway — escolas de vulnerabilidade social",
+        "period": "16–18 anos",
+        "role": "Assistente pedagógico | Voluntário",
+        "pitch": "A The Highway identificava estudantes em escolas de maior vulnerabilidade social por meio de um processo seletivo simples, buscando quem demonstrava interesse real em aprender e precisava daquela oportunidade.",
+        "bullets": [
+          "A escola conectava esses alunos a cursos básicos como inglês, administração, informática, robótica, rotinas administrativas e lógica de programação.",
+          "Como assistente pedagógico voluntário, eu apoiava as aulas na própria escola, ajudando alunos a acompanhar os conteúdos e praticar no ritmo deles.",
+          "Convivi com turmas diversas, que incluíam alunos com TDAH, autismo, surdez, deficiência visual e outras condições.",
+          "A experiência me ensinou a explicar melhor, adaptar a comunicação e lidar com diferentes pessoas e formas de aprender."
+        ]
+      }
+    },
+    "testimonials": {
+      "matheus-pires": {
+        "name": "Matheus Pires",
+        "role": "Software Engineer | Fullstack Developer",
+        "company": "BTG Pactual • Maior banco de investimentos da América Latina.",
+        "context": "Em novembro de 2024, Matheus era senior em relação a Victor",
+        "quote": "Ótimo desenvolvedor/profissional, extremamente dedicado, com uma vasta gama de conhecimento tanto teórico quanto prático e aprende de forma rápida."
+      },
+      "fernando-freitas": {
+        "name": "Fernando Freitas Alves",
+        "role": "CTO / VP of Engineering",
+        "company": "Cobli • Plataforma de tecnologia para gestão de frotas e logística",
+        "context": "Em dezembro de 2022, Fernando contratou Victor",
+        "quote": "Contratei o Victor para me ajudar a migrar meu site pessoal para a AWS. Foi muito profissional e implantou tudo antes do prazo."
+      }
+    },
+    "skills": [
+      {
+        "category": "Linguagens",
+        "items": "C, C++, Python, Kotlin, Java, ADVPL"
+      },
+      {
+        "category": "Embarcados",
+        "items": "Linux, RTOS, Qt, LVGL, libcurl, GDB, Valgrind"
+      },
+      {
+        "category": "Pagamentos",
+        "items": "EMV, ISO8583, ABECS, TCP/IP, SSL/TLS, cripto"
+      },
+      {
+        "category": "Cloud / métodos",
+        "items": "AWS, Azure · Agile/Scrum, Git, Jira, Confluence"
+      },
+      {
+        "category": "Idiomas",
+        "items": "Português (nativo) · Inglês (profissional) · Francês / Alemão (básico)"
+      }
+    ],
+    "cloudCertifications": {
+      "bridge": "Entre o técnico e o tecnólogo, formalizei a base na nuvem — AWS e Azure, com credencial na mão.",
+      "pitch": "Três certificações Credly: fundamentos de nuvem, dados e IA. Extensão natural da base técnica — a infraestrutura que o mercado pede.",
+      "verifyLabel": "Verificar na Credly",
+      "items": {
+        "aws-cloud-practitioner": {
+          "name": "AWS Certified Cloud Practitioner",
+          "tagline": "Fundamentos de nuvem AWS — compute, storage, rede e o modelo de responsabilidade compartilhada."
+        },
+        "azure-data-fundamentals": {
+          "name": "Microsoft Certified: Azure Data Fundamentals",
+          "tagline": "Dados, analytics e governança no ecossistema Azure."
+        },
+        "azure-ai-fundamentals": {
+          "name": "Microsoft Certified: Azure AI Fundamentals",
+          "tagline": "IA e machine learning na Azure — do conceito ao serviço."
+        }
+      }
+    }
+  }
+}

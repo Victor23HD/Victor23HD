@@ -1,0 +1,13 @@
+[
+  { "id": "one-piece", "name": "One Piece", "image": "/images/life/anime/one-piece.png" },
+  { "id": "dr-stone", "name": "Dr. Stone", "image": "/images/life/anime/dr-stone.png" },
+  { "id": "death-note", "name": "Death Note", "image": "/images/life/anime/death-note.png" },
+  { "id": "boku-no-hero", "name": "Boku no Hero", "image": "/images/life/anime/boku-no-hero.png" },
+  { "id": "soul-eater", "name": "Soul Eater", "image": "/images/life/anime/soul-eater.png" },
+  { "id": "one-punch-man", "name": "One Punch Man", "image": "/images/life/anime/one-punch-man.png" },
+  { "id": "sword-art-online", "name": "Sword Art Online", "image": "/images/life/anime/sword-art-online.png" },
+  { "id": "super-onze", "name": "Super Onze", "image": "/images/life/anime/super-onze.png" },
+  { "id": "solo-leveling", "name": "Solo Leveling", "image": "/images/life/anime/solo-leveling.png" },
+  { "id": "hunter-x-hunter", "name": "Hunter x Hunter", "image": "/images/life/anime/hunter-x-hunter.png" },
+  { "id": "demon-slayer", "name": "Demon Slayer", "image": "/images/life/anime/demon-slayer.png" }
+]

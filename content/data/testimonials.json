@@ -1,0 +1,16 @@
+[
+  {
+    "id": "matheus-pires",
+    "initials": "MP",
+    "avatar": "/images/testimonials/matheus.png",
+    "linkedin": "",
+    "published": true
+  },
+  {
+    "id": "fernando-freitas",
+    "initials": "FF",
+    "avatar": "/images/testimonials/fernando.png",
+    "linkedin": "",
+    "published": true
+  }
+]

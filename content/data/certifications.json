@@ -1,0 +1,20 @@
+[
+  {
+    "id": "aws-cloud-practitioner",
+    "image": "/images/certifications/aws-cloud-practitioner.png",
+    "credlyUrl": "https://www.credly.com/badges/28f0e058-13af-41ac-8871-f82ed2743dfb",
+    "issuer": "aws"
+  },
+  {
+    "id": "azure-data-fundamentals",
+    "image": "/images/certifications/azure-data-fundamentals.png",
+    "credlyUrl": "https://www.credly.com/badges/f9de6c01-ddda-48c8-883c-fd3cfcd267e9",
+    "issuer": "microsoft"
+  },
+  {
+    "id": "azure-ai-fundamentals",
+    "image": "/images/certifications/azure-ai-fundamentals.png",
+    "credlyUrl": "https://www.credly.com/badges/6bf911b7-d1b2-40f3-91eb-155eb02c474c",
+    "issuer": "microsoft"
+  }
+]

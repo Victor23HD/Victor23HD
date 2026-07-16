@@ -1,0 +1,12 @@
+[
+  { "id": "valorant", "name": "Valorant", "image": "/images/life/games/valorant.png" },
+  { "id": "lego-batman", "name": "LEGO Batman", "image": "/images/life/games/lego-batman.png" },
+  { "id": "dark-souls-3", "name": "Dark Souls III", "image": "/images/life/games/dark-souls-3.png" },
+  { "id": "zelda-botw", "name": "The Legend of Zelda: Breath of the Wild", "image": "/images/life/games/zelda-botw.png" },
+  { "id": "mario-odyssey", "name": "Super Mario Odyssey", "image": "/images/life/games/mario-odyssey.png" },
+  { "id": "pokemon-fire-red", "name": "Pokémon FireRed", "image": "/images/life/games/pokemon-fire-red.png" },
+  { "id": "pokemon-soul-silver", "name": "Pokémon SoulSilver", "image": "/images/life/games/pokemon-soul-silver.png" },
+  { "id": "tlou2", "name": "The Last of Us Part II", "image": "/images/life/games/tlou2.png" },
+  { "id": "god-of-war-ragnarok", "name": "God of War Ragnarök", "image": "/images/life/games/god-of-war-ragnarok.png" },
+  { "id": "geoguessr", "name": "GeoGuessr", "image": "/images/life/games/geoguessr.png" }
+]

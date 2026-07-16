@@ -1,0 +1,7 @@
+[
+  { "id": "totvs", "companyKey": "totvs", "logo": "/images/companies/totvs.png", "logoFit": "cover" },
+  { "id": "act", "companyKey": "act", "logo": "/images/companies/act.png", "logoFit": "contain", "clientLogo": "/images/companies/bradesco.png", "clientLogoFit": "cover" },
+  { "id": "transire-pos", "companyKey": "transire", "logo": "/images/companies/transire.png", "logoFit": "contain" },
+  { "id": "transire-entry", "companyKey": "transire", "logo": "/images/companies/transire.png", "logoFit": "contain" },
+  { "id": "transire-trainee", "companyKey": "transire", "logo": "/images/companies/transire.png", "logoFit": "contain" }
+]

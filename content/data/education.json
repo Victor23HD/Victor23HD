@@ -1,0 +1,10 @@
+[
+  { "id": "fam", "logo": "/images/education/fam.png", "logoFit": "cover", "hours": 2040 },
+  {
+    "id": "highway",
+    "logo": "/images/education/the-highway.png",
+    "logoFit": "cover",
+    "logoShape": "wide",
+    "hours": 1200
+  }
+]

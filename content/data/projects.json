@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "fcl",
+    "published": true
+  },
+  {
+    "slug": "totvstec-hub",
+    "url": "https://victor23hd.github.io/totvstec-hub/",
+    "repo": "https://github.com/Victor23HD/totvstec-hub",
+    "published": false
+  },
+  {
+    "slug": "trilha",
+    "repo": "https://github.com/Victor23HD/trilha",
+    "published": false
+  },
+  {
+    "slug": "jeniffer-concurso",
+    "url": "https://victor23hd.github.io/Jeniffer-concurso/",
+    "repo": "https://github.com/Victor23HD/Jeniffer-concurso",
+    "published": false
+  },
+  {
+    "slug": "ipb-vgp",
+    "published": false
+  }
+]

@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/ERP%20%26%20Kernel-002F6C?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel" />
+  <img src="https://img.shields.io/badge/ERP%20%26%20Core-002F6C?style=for-the-badge&logo=linux&logoColor=white" alt="ERP & Core" />
   <img src="https://img.shields.io/badge/High%20Performance-FF6F00?style=for-the-badge&logo=speedtest&logoColor=white" alt="High Performance" />
   <img src="https://img.shields.io/badge/Payments%20%26%20EMV-FF9900?style=for-the-badge&logo=mastercard&logoColor=white" alt="Payments" />
 </p>
@@ -11,15 +11,15 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** with over 4 years of experience specializing in mission-critical systems, firmware, and high-performance architectures. My career is defined by working in national-scale ecosystems where stability and precision are fundamental requirements. 
+I am a **Software Engineer** with over 3 years of experience specializing in mission-critical systems, firmware, and high-performance architectures. My career is defined by working in national-scale ecosystems where stability and precision are fundamental requirements. 
 
-Currently, I contribute to the technical core of **TOTVS Protheus**, the leading ERP in Latin America, which powers approximately 25% of Brazil’s GDP. My daily work involves navigating seamlessly between low-level development (**C/C++ at the Kernel/AppServer level**) and complex business logic, ensuring that high-stakes systems operate with maximum efficiency under extreme workloads.
+Currently, I contribute to the technical core of **TOTVS Protheus**, the leading ERP in Latin America, which powers approximately 25% of Brazil’s GDP. My daily work involves navigating seamlessly between low-level development (**C/C++ at the AppServer/core level**) and complex business logic, ensuring that high-stakes systems operate with maximum efficiency under extreme workloads.
 
 ---
 
 ### 🛠️ Core Expertise & Domain Knowledge
 
-- **Low-Level & Kernel Engineering:** Expert in C/C++, memory analysis, and debugging deep-seated technical bottlenecks at the AppServer and Kernel layers.
+- **Low-Level & Core Engineering:** Expert in C/C++, memory analysis, and debugging deep-seated technical bottlenecks at the AppServer and core platform layers.
 - **Fintech & Payments Infrastructure:** Driven technical lifecycles within the payments industry, ensuring strict compliance with **EMV**, **ISO8583**, and **ABECS** standards.
 - **Mission-Critical Systems:** Focused on 100% availability, transactional flow optimization, network communication protocols, and cryptographic security.
 - **Applied Engineering Curiosity:** Passionate about understanding how every single layer of a system interacts, from physical hardware and firmware up to high-level digital ecosystems.

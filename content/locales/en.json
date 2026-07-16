@@ -1,0 +1,410 @@
+{
+  "ui": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "life": "Life",
+      "experience": "Experience",
+      "projects": "Projects",
+      "education": "Education",
+      "volunteering": "Volunteering",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "hero": {
+      "role": "Software Engineer • C/C++",
+      "available": "Open to challenges",
+      "ctaProjects": "View projects",
+      "ctaContact": "Get in touch",
+      "ctaCv": "Download CV",
+      "tech": [
+        "C",
+        "C++",
+        "Python",
+        "Kotlin",
+        "Linux",
+        "RTOS",
+        "AWS",
+        "Azure",
+        "Git",
+        "EMV"
+      ]
+    },
+    "sections": {
+      "stats": "At a glance",
+      "tech": "Tech I use",
+      "experience": "Experience",
+      "projects": "Selected projects",
+      "skills": "Skills",
+      "volunteering": "Volunteering",
+      "contact": "Contact",
+      "blog": "Blog",
+      "education": "Education",
+      "certifications": "Certifications"
+    },
+    "common": {
+      "viewProject": "View project",
+      "viewCode": "View code",
+      "backToProjects": "Back to projects",
+      "backToBlog": "Back to blog",
+      "comingSoon": "Coming soon",
+      "readMore": "Read more",
+      "downloadCv": "Download CV",
+      "sendEmail": "Send email",
+      "darkMode": "Dark mode",
+      "lightMode": "Light mode",
+      "allRights": "All rights reserved.",
+      "highlights": "Highlights",
+      "notFound": "Page not found."
+    },
+    "contact": {
+      "intro": "Open to conversations about embedded systems, payments, and core engineering at national scale. Send a message or connect on social.",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "locationLabel": "Location",
+      "socialLabel": "Social"
+    },
+    "about": {
+      "title": "About me",
+      "intro": "At 22, trying to make a difference — in the city, in education, and in code.",
+      "summary": [
+        "At 22, the pursuit is the same: make a difference. In the city, helping those who need it most change their lives. At work, delivering with results. And along the way, teaching and learning in the same step.",
+        "In over 3 years of C/C++, I grew from embedded support into payments, certifications, and the core of platforms that move the economy."
+      ],
+      "lifeCta": "Life outside work →",
+      "exploreLabel": "Explore more",
+      "explore": {
+        "experience": {
+          "title": "Experience",
+          "description": "From POS and EMV Kernel to the Protheus core."
+        },
+        "education": {
+          "title": "Education",
+          "description": "Technical school, cloud, and IT management alongside the career."
+        },
+        "life": {
+          "title": "Life",
+          "description": "What sits outside the code."
+        }
+      },
+      "paragraphs": [
+        "I was born on 20/03/2004. At 22, the question that drives me is simple: how to make a difference — in the city, with those who need it most, and at work, with deliveries that create real results.",
+        "Volunteering and education never lagged behind the career: teaching IT and English to people who need the opportunity, technical school, cloud, and IT management alongside the day job. Learning and sharing knowledge are part of the same path.",
+        "Professionally, over 3 years in critical C/C++ systems: embedded, payments, certification, and the core of platforms at scale. Always with the same rigor — stability, results, and impact at the edge.",
+        "Away from the keyboard, I choose with intention what matters. Work takes a good part of the day; the rest I build with the same compass: deliver results, create change, and leave things better than I found them."
+      ]
+    },
+    "life": {
+      "eyebrow": "Life · Outside work",
+      "title": "Life outside the work.",
+      "intro": "",
+      "featuredLabel": "Featured",
+      "libraryLabel": "More stories",
+      "filterAll": "All",
+      "featured": {
+        "tag": "Games",
+        "title": "Games",
+        "pitch": "Long RPGs, tough challenges, and ranked sessions with friends — games that demand patience and focus, the same way I like to approach work.",
+        "clearedLabel": "The best games I've completed"
+      },
+      "topics": [
+        {
+          "id": "anime",
+          "tag": "Anime",
+          "title": "Anime",
+          "pitch": "Epic stories, well-built worlds, and characters that stick — from classic shōnen to the latest sci-fi."
+        },
+        {
+          "id": "music",
+          "tag": "Music",
+          "title": "Music",
+          "pitch": ""
+        }
+      ],
+      "closing": "Work takes up much of the day — the rest I choose calmly: a game, a cup, a track, or an episode worth the time.",
+      "backToAbout": "← Professional profile"
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Technical notes on mission-critical systems, embedded engineering, and platform work.",
+      "empty": "New articles coming soon. In the meantime, explore projects and experience."
+    },
+    "projects": {
+      "title": "Projects",
+      "subtitle": "Projects under construction — more details soon.",
+      "unpublished": "Project being prepared for publication."
+    },
+    "experience": {
+      "title": "Experience",
+      "subtitle": "Over three years building software where stability, compliance, and performance are non-negotiable.",
+      "storyIntro": "From high-availability embedded systems to the core of an ERP that underpins the Brazilian economy.",
+      "storyQuote": "Technology isn't about what the machine does — it's about the real impact we deliver at the edge.",
+      "counter": {
+        "year": "year",
+        "years": "years",
+        "month": "month",
+        "months": "months",
+        "and": "and",
+        "suffix": "Making a difference",
+        "almost": "almost"
+      }
+    },
+    "education": {
+      "storyIntro": "From the technical foundation that put me in the market — education that walks with the career, not behind it.",
+      "storyQuote": "Real education doesn't close doors. It opens the next one.",
+      "hoursLabel": "hours"
+    },
+    "volunteering": {
+      "title": "Volunteering",
+      "subtitle": "Teaching at school, learning from every student — inclusion before it became a management skill."
+    },
+    "testimonials": {
+      "title": "Recommendations",
+      "viewLinkedIn": "View on LinkedIn"
+    },
+    "home": {
+      "education": {
+        "title": "Academic background",
+        "subtitle": "From a technical foundation to IT Management — learning, teaching, and leading on the same path."
+      },
+      "volunteering": {
+        "title": "Volunteering",
+        "subtitle": "Sharing knowledge to expand opportunities."
+      }
+    }
+  },
+  "narrative": {
+    "headline": "Software Engineer C/C++ — embedded, payments, and ERP core at national scale",
+    "tagline": "From high-availability embedded to the Protheus core — payments, certification, and impact on Brazil’s economy.",
+    "summary": "Software engineer with over 3 years in critical systems: EMV Kernel and telecom with PagSeguro, Stone, and Mercado Pago; acquirer certification at Grupo Bradesco approved on the first attempt; and today on the TOTVS Protheus / AppServer core — an ERP that underpins roughly 25% of Brazil’s GDP. C/C++, Linux/RTOS, AdvPL/TLPP.",
+    "pillars": [
+      {
+        "title": "Embedded & acquiring",
+        "description": "EMV Kernel, Linux/RTOS POS, telecom labs, and front-line work with Brazil’s largest acquirers — a reference on national and international projects."
+      },
+      {
+        "title": "Banking certification",
+        "description": "At Grupo Bradesco, acquirer certification approved first time — unprecedented — with Corban, features, and refactoring at scale."
+      },
+      {
+        "title": "TOTVS Protheus core",
+        "description": "Engineering on the AppServer/runtime and AdvPL/TLPP parser in C++ — language evolution where every line impacts thousands of enterprises."
+      }
+    ],
+    "stats": [
+      {
+        "label": "Years of experience",
+        "value": "3+"
+      },
+      {
+        "label": "Career positions",
+        "value": "5"
+      },
+      {
+        "label": "Cloud certifications",
+        "value": "3"
+      },
+      {
+        "label": "Academic background",
+        "value": "Technical + Associate"
+      }
+    ],
+    "experience": {
+      "totvs": {
+        "role": "Senior Software Engineer | C/C++",
+        "company": "TOTVS — São Paulo (remote)",
+        "period": "Mar 2026 – present",
+        "pitch": "The ERP behind roughly 25% of Brazil's GDP — where every line of C/C++ impacts thousands of enterprises.",
+        "bridge": "After years in embedded, a new challenge: the software behind 25% of Brazil’s GDP.",
+        "bullets": [
+          "Core engineering on TOTVS Protheus / AppServer — a mission-critical ERP platform for thousands of customers in Brazil.",
+          "Implementing new syntax and semantics features directly in the C++ source of the AdvPL and TLPP execution engine (runtime) and parser."
+        ]
+      },
+      "act": {
+        "role": "Embedded Software Engineer | C/C++",
+        "company": "ACT Digital",
+        "client": "Grupo Bradesco",
+        "period": "Nov 2024 – Mar 2026",
+        "pitch": "Sector know-how applied to certifying the application to operate as an acquirer — approved on the first attempt, a first in the company’s history.",
+        "bridge": "After years helping Brazil’s largest acquirers, the opportunity came to work with the Bradesco group — on a project that reaches the whole country and brings one of banking’s biggest innovations.",
+        "bullets": [
+          "Corban + Acquiring: maintenance, new features, and the start of a global application refactor.",
+          "Integration of the company’s official embedded software with new products."
+        ]
+      },
+      "transire-pos": {
+        "role": "Embedded Software Engineer | C/C++",
+        "company": "Transire Serviços — Cotia, SP",
+        "period": "Oct 2024 – Nov 2024",
+        "pitch": "Integrating new products with Transire’s official software — and front-line work on PagSeguro, Stone, and Mercado Pago projects.",
+        "bridge": "In EMV + telecom, I became the team reference for national and international projects.",
+        "bullets": [
+          "Owned mass production of new firmwares for different POS terminal vendors (Linux).",
+          "Hands-on telecom certifications for Stone, Mercado Pago, and PagSeguro test suites.",
+          "Designed and shipped fake-transaction apps for telecom certification scenarios.",
+          "Main bridge between China teams and major clients such as PagSeguro, Stone, and Mercado Pago."
+        ]
+      },
+      "transire-entry": {
+        "role": "Embedded Software Engineer – Entry Level | C/C++",
+        "company": "Transire Serviços — Cotia, SP",
+        "period": "Feb 2023 – Oct 2024",
+        "pitch": "From the EMV Kernel to projects validated in Brazil’s top telecom labs — keeping pace with China’s reference engineers.",
+        "bridge": "Fast, high-quality support, meaningful insights on major-client projects, and rising English,\npreparing for new challenges.",
+        "bullets": [
+          "Owned the eSIM project — early code samples later adopted by major companies in Brazil.",
+          "PagSeguro Q92X optimization: better battery, connectivity, and printer among market devices.",
+          "Telecom failures on Stone Q92 — tuned Qt on the S920 to get the best from framework and hardware.",
+          "Transaction simulation in C (Linux/RTOS), aligned with ABECS norms, with UI in LVGL.",
+          "Automated key injection over SSL/TLS — less risk and less manual work in certification.",
+          "Within about a year at Transire, communicating efficiently in English in technical contexts."
+        ]
+      },
+      "transire-trainee": {
+        "role": "Embedded Software Engineer – Trainee | C/C++",
+        "company": "Transire Serviços — Cotia, SP",
+        "period": "Dec 2022 – Feb 2023",
+        "pitch": "Trainee with results: proprietary SDK support, with fast answers that got customers out of the queue.",
+        "bullets": [
+          "Closed simple issues the same day — less idle time for support and for the customer.",
+          "Unblocked proprietary SDK questions and analyzed client-app improvements — for example, battery use.",
+          "Started from zero English — the foundation that, across Transire, became efficient technical communication."
+        ]
+      }
+    },
+    "projects": {
+      "fcl": {
+        "title": "FCL",
+        "description": "Project under construction. Scope, stack, and outcomes will be published here soon.",
+        "highlights": [
+          "Content and documentation in preparation",
+          "Publication planned for this section",
+          "More details coming soon"
+        ]
+      },
+      "totvstec-hub": {
+        "title": "TOTVSTec Hub",
+        "description": "Docusaurus documentation hub for the TOTVSTec community — centralizing guides, references, and technical materials.",
+        "highlights": [
+          "Static documentation optimized for GitHub Pages",
+          "Modular structure for community growth",
+          "Integration with the TOTVS ecosystem"
+        ]
+      },
+      "trilha": {
+        "title": "Trilha",
+        "description": "Next.js study platform built in the ETEC context — learning paths, progress tracking, and quizzes.",
+        "highlights": [
+          "App Router with a gamified study experience",
+          "Per-topic progress tracking",
+          "Focus on computer science fundamentals"
+        ]
+      },
+      "jeniffer-concurso": {
+        "title": "Jeniffer Concurso",
+        "description": "Static site published on GitHub Pages to support public exam preparation.",
+        "highlights": [
+          "Automated deployment",
+          "Lightweight, responsive layout",
+          "Study-focused content"
+        ]
+      },
+      "ipb-vgp": {
+        "title": "IPB-VGP",
+        "description": "Research project in development — publication planned.",
+        "highlights": [
+          "In preparation"
+        ]
+      }
+    },
+    "education": {
+      "fam": {
+        "title": "Associate Degree in Information Technology Management",
+        "institution": "FAM — University Center",
+        "period": "grad. 2026",
+        "pitch": "Knowledge to understand every angle of a project — and the people in it.",
+        "detail": "A degree running alongside my career. Deepens the technical foundation and teaches how to read the whole project — from the team to the decision that reaches production.",
+        "bridge": "Before the cloud and management came the school that changed the path — and graduated me first in my class."
+      },
+      "highway": {
+        "title": "Technical High School Education — Information Technology",
+        "institution": "The Highway — Cotia, SP",
+        "period": "2018 – 2020",
+        "pitch": "The foundation of everything: web, hardware, systems, and databases. A technical program that shaped the engineer — and the person.",
+        "detail": "First in class. Four qualifications — Systems Development, Computer Operations, E-Commerce, and Networks — and school recognition for the work with those who needed it most."
+      }
+    },
+    "volunteering": {
+      "highway-teaching": {
+        "organization": "The Highway — schools in vulnerable communities",
+        "period": "Ages 16–18",
+        "role": "Pedagogical assistant | Volunteer",
+        "pitch": "The Highway identified students in schools facing greater social vulnerability through a simple selection process, looking for those who showed genuine interest in learning and needed that opportunity.",
+        "bullets": [
+          "The school connected those students to basic courses such as English, administration, IT, robotics, administrative routines, and programming logic.",
+          "As a volunteer pedagogical assistant, I supported classes at the school, helping students follow the content and practice at their own pace.",
+          "I worked with diverse groups that included students with ADHD, autism, deafness, visual impairment, and other conditions.",
+          "The experience taught me to explain better, adapt communication, and work with different people and ways of learning."
+        ]
+      }
+    },
+    "testimonials": {
+      "matheus-pires": {
+        "name": "Matheus Pires",
+        "role": "Software Engineer | Fullstack Developer",
+        "company": "BTG Pactual • Latin America's largest investment bank.",
+        "context": "In November 2024, Matheus was senior to Victor",
+        "quote": "Great developer/professional, extremely dedicated, with a wide range of both theoretical and practical knowledge, and he learns quickly."
+      },
+      "fernando-freitas": {
+        "name": "Fernando Freitas Alves",
+        "role": "CTO / VP of Engineering",
+        "company": "Cobli • Technology platform for fleet management and logistics",
+        "context": "In December 2022, Fernando hired Victor",
+        "quote": "I hired Victor to help me migrate my personal website to AWS. He was very professional and deployed everything before the deadline."
+      }
+    },
+    "skills": [
+      {
+        "category": "Languages",
+        "items": "C, C++, Python, Kotlin, Java, ADVPL"
+      },
+      {
+        "category": "Embedded",
+        "items": "Linux, RTOS, Qt, LVGL, libcurl, GDB, Valgrind"
+      },
+      {
+        "category": "Payments",
+        "items": "EMV, ISO8583, ABECS, TCP/IP, SSL/TLS, crypto"
+      },
+      {
+        "category": "Cloud / methods",
+        "items": "AWS, Azure · Agile/Scrum, Git, Jira, Confluence"
+      },
+      {
+        "category": "Languages spoken",
+        "items": "Portuguese (native) · English (professional) · French / German (basic)"
+      }
+    ],
+    "cloudCertifications": {
+      "bridge": "Between technical school and the degree, I formalized the foundation in the cloud — AWS and Azure, credentials in hand.",
+      "pitch": "Three Credly certifications: cloud, data, and AI fundamentals. A natural extension of the technical base — the infrastructure the market asks for.",
+      "verifyLabel": "Verify on Credly",
+      "items": {
+        "aws-cloud-practitioner": {
+          "name": "AWS Certified Cloud Practitioner",
+          "tagline": "AWS cloud fundamentals — compute, storage, networking, and shared responsibility."
+        },
+        "azure-data-fundamentals": {
+          "name": "Microsoft Certified: Azure Data Fundamentals",
+          "tagline": "Data, analytics, and governance in the Azure ecosystem."
+        },
+        "azure-ai-fundamentals": {
+          "name": "Microsoft Certified: Azure AI Fundamentals",
+          "tagline": "AI and machine learning on Azure — from concept to service."
+        }
+      }
+    }
+  }
+}

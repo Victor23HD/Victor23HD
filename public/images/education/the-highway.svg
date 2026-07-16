@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="The Highway">
+  <rect width="160" height="160" rx="28" fill="#000000"/>
+
+  <!-- dashed upward path -->
+  <g fill="#FF6A00">
+    <rect x="88" y="58" width="10" height="5" rx="2.5" transform="rotate(-18 88 58)"/>
+    <rect x="102" y="48" width="10" height="5" rx="2.5" transform="rotate(-28 102 48)"/>
+    <rect x="116" y="36" width="10" height="5" rx="2.5" transform="rotate(-38 116 36)"/>
+    <path d="M128 20l22 14-18 4z"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="18" y="78" fill="#FF6A00" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5">The</text>
+  <rect x="18" y="84" width="42" height="5" rx="2.5" fill="#FF6A00"/>
+  <text x="18" y="120" fill="#9B3DCC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.8">Highway</text>
+  <!-- orange i-dot -->
+  <circle cx="82.5" cy="96" r="3.2" fill="#FF6A00"/>
+</svg>
