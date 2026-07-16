@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { withBasePath } from "@/lib/paths";
 import type { CertificationItem } from "@/lib/types";
 
 interface CloudCertificationsStoryProps {
@@ -46,7 +47,7 @@ export function CloudCertificationsStory({
             >
               <div className="cloud-certs-story__badge-image">
                 <Image
-                  src={item.image}
+                  src={withBasePath(item.image)}
                   alt={item.name}
                   fill
                   className="object-contain p-2"

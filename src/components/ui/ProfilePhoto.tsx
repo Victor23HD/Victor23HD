@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { withBasePath } from "@/lib/paths";
 
 interface ProfilePhotoProps {
   className?: string;
@@ -14,7 +15,7 @@ export function ProfilePhoto({
   return (
     <div className={`relative overflow-hidden bg-card ${className}`}>
       <Image
-        src="/images/profile.jpg"
+        src={withBasePath("/images/profile.jpg")}
         alt="Victor Caporici"
         width={640}
         height={640}

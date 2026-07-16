@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { localePath, type Locale } from "@/lib/i18n";
+import { withBasePath } from "@/lib/paths";
 import type { LifeContent, LifeGame, LifeTopic, MusicTrack } from "@/lib/types";
 
 interface LifeSectionProps {
@@ -200,7 +201,7 @@ function LifeMediaPanel({
                 className={`life-game-banner__frame ${imageFit === "contain" ? "life-game-banner__frame--contain" : ""}`}
               >
                 <Image
-                  src={item.image}
+                  src={withBasePath(item.image)}
                   alt={item.name}
                   fill
                   sizes="(max-width: 640px) 45vw, (max-width: 1024px) 28vw, 18vw"

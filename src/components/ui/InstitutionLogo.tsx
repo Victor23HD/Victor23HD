@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { withBasePath } from "@/lib/paths";
 
 interface InstitutionLogoProps {
   src?: string;
@@ -36,7 +37,7 @@ export function InstitutionLogo({
         }`}
       >
         <Image
-          src={src}
+          src={withBasePath(src)}
           alt={alt}
           fill
           className={

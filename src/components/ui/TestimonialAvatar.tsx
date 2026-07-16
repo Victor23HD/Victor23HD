@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { withBasePath } from "@/lib/paths";
 
 interface TestimonialAvatarProps {
   name: string;
@@ -11,7 +12,7 @@ export function TestimonialAvatar({ name, initials, avatar }: TestimonialAvatarP
     return (
       <div className="testimonial-avatar">
         <Image
-          src={avatar}
+          src={withBasePath(avatar)}
           alt={name}
           width={52}
           height={52}

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { withBasePath } from "@/lib/paths";
 
 export type CompanyKey = "totvs" | "act" | "transire";
 export type LogoFit = "cover" | "contain";
@@ -20,7 +21,7 @@ function LogoImage({ src, alt, fit = "contain", className = "" }: LogoImageProps
       } ${className}`}
     >
       <Image
-        src={src}
+        src={withBasePath(src)}
         alt={alt}
         fill
         className={isCover ? "object-cover" : "object-contain p-0.5"}
